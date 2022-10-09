@@ -1,0 +1,96 @@
+.navbar{
+  background-color: #0000FF;
+  height: 80px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  
+}
+.menu-bars {
+  margin-left: 2rem;
+  font-size: 2rem;
+  background: none;
+  
+}
+.rubick{
+  margin-left: 15px;
+  color: #fff;
+  display: flex;
+}
+.admin{
+ margin-left: auto;
+ display: flex;
+
+}
+.user{
+  display: inline-flex;
+  margin-right: 50px;
+  color: #fff;
+}
+.userIcon{
+  font-size: 30px;
+  display: inline-flex;
+  margin-right: 10px;
+  border: 1px solid #fff;
+  border-radius: 50%;
+} 
+
+.nav-menu {
+  background-color: #FFFFFF;
+  width: 250px;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  transition: all 1s;
+  
+}
+.sidebar{
+  font-size: 30px;
+}
+.nav-menu.active {
+  left: 0;
+  transition: 350ms;
+}
+.nav-text {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  padding: 8px 0px 8px 16px;
+  height: 60px;
+}
+.nav-text a{
+  text-decoration: none;
+  color:  #5A5A5A;
+  font-size: 18px;
+  width: 95%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 16px;
+  border-radius: 5px;
+}
+.nav-text a:hover {
+  background-color: #0000FF;
+}
+.nav-menu-items{
+  width: 100%;
+}
+.navbar-toggle {
+  background-color: #0000FF;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  
+}
+span{
+  margin-left: 16px;
+}
+.textarea{
+  font-size: large;
+}
+.form-group input:after { content:"*"; }

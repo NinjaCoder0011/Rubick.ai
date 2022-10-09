@@ -1,0 +1,185 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+body{
+  background-color: #D3D3D3;
+}
+.home,.reports,.products{
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+
+}
+.heading{
+  margin-left: 30%;
+  margin-top: 5%;
+}
+.homeHeading{
+  color: blue;
+  font-size: 30px;
+}
+.heading p{
+  color:  #808080;
+  font-size: 20px;
+  margin-top: 5px;
+ 
+}
+.prHead{
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30px;
+  padding-bottom: 30px;
+}
+.prHeading{
+  color: grey;
+  font-size: 30px;
+}
+.tb {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+  
+table {
+  border: 2px solid grey;
+  width: 800px;
+  height: 200px;
+}
+  
+th {
+  border-bottom: 1px solid grey;
+}
+  
+td {
+  text-align: center;
+}
+.bool{
+  color:green
+}
+.pre{
+  color:#808080;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-left: 660px;
+}
+.next{
+  color:#808080;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-left: 25px;
+}
+.bot{
+  padding-top: 10px;
+  color:#808080;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-left: 25px;
+}
+.btn{
+  margin-left: 25px;
+  background-color: white;
+  border: none;
+  color: blue;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 50%;
+}
+.selection{
+  color:#808080;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+  margin-left: 380px;
+  padding: 5px 5px 5px 5px;
+}
+.new{
+  padding-bottom: 20px;
+} 
+.formBox{
+  margin: 0px;
+  border: none;
+  padding: 10px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.formname{
+  margin: 0px;
+  border: none;
+  padding: 10px 140px;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.prohead{
+  color:#808080;
+}
+.formstatus{
+  margin-left: 170px;
+  margin-bottom: 5px;
+  border: none;
+  padding-left: 100px;
+  color: #808080;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+.formstatusbox{
+  padding-bottom: 5px;
+  margin-left: 50px;
+  background-color: white;
+  border: none;
+  color: orange;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 40%;
+}
+.btnCancel{
+  margin-left: 5px;
+  background-color: darkgray;
+  border: none;
+  color: gray;
+  padding: 10px 35px 10px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 25%;
+}
+.btnSubmit{
+  margin-left: 25px;
+  background-color: blue;
+  border: none;
+  color: white;
+  padding: 10px 35px 10px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 25%;
+}
+.formbtn{
+  padding-top: 40px;
+}

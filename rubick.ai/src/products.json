@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "Code": "#3672",
+        "Name": "HP Pavilion",
+        "Qty": "55",
+        "Price": "68500",
+        "Status": "Active",
+        "Date_added": "Sep 20, 2022"
+    },
+    {
+        "id": 2,
+        "Code": "#3673",
+        "Name": "Lorem ipsum",
+        "Qty": "76",
+        "Price": "23650",
+        "Status": "Active",
+        "Date_added": "Sep 20, 2022"
+    },
+    {
+        "id": 3,
+        "Code": "#3674",
+        "Name": "Consectetuer",
+        "Qty": "44",
+        "Price": "43000",
+        "Status": "Active",
+        "Date_added": "Sep 20, 2022"
+    },
+    {
+        "id": 4,
+        "Code": "#3675",
+        "Name": "Aenean",
+        "Qty": "23",
+        "Price": "9400",
+        "Status": "Inactive",
+        "Date_added": "Sep 20, 2022"
+    },
+    {
+        "id": 5,
+        "Code": "#3676",
+        "Name": "Cu sociis",
+        "Qty": "81",
+        "Price": "7500",
+        "Status": "Active",
+        "Date_added": "Sep 20, 2022"
+    },
+    {
+        "id": 6,
+        "Code": "#3677",
+        "Name": "Magnis dis",
+        "Qty": "76",
+        "Price": "34200",
+        "Status": "Inactive",
+        "Date_added": "Sep 20, 2022"
+    }
+]
