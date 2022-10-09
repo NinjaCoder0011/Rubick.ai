@@ -1,7 +1,7 @@
 # Rubick.ai Final Product
 
 <h4>Home Page:<h4/>
-<img src="model/Sidebar.png" alt="Home Page">
+<img src="model/Home.png" alt="Home Page">
 
 <h4>Sidebar:<h4/>
 <img src="model/Sidebar.png" alt="Sidebar Page">
