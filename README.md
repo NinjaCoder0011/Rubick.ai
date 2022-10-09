@@ -1,17 +1,17 @@
 # Rubick.ai Final Product
 
 Home Page:
-https://github.com/NinjaCoder0011/Rubick.ai/blob/4e2e612b11cdbac4264fc00236185ce93192dbb4/model/Home.png
+<img src="model/Sidebar.png" alt="Home Page">
 
 Sidebar:
-model/Sidebar.png
+<img src="model/Sidebar.png" alt="Sidebar Page">
 
 Welcome Page:
-model/Welcome.png
+<img src="model/Welcome.png" alt="Welcome Page">
 
 Product page:
-model/Product.png
+<img src="model/Product.png" alt="Product Page">
 
 Form Page:
-model/Form.png
+<img src="model/Form.png" alt="Form Page">
 
