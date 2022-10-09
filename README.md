@@ -1,17 +1,17 @@
 # Rubick.ai Final Product
 
-Home Page:
+<h4>Home Page<h4/>:
 <img src="model/Sidebar.png" alt="Home Page">
 
-Sidebar:
+<h4>Sidebar<h4/>:
 <img src="model/Sidebar.png" alt="Sidebar Page">
 
-Welcome Page:
+<h4>Welcome Page<h4/>:
 <img src="model/Welcome.png" alt="Welcome Page">
 
-Product page:
-<img src="model/Product.png" alt="Product Page">
+<h4>Product page<h4/>:
+<img src="model/Prodcuts.png" alt="Product Page">
 
-Form Page:
+<h4>Form Page<h4/>:
 <img src="model/Form.png" alt="Form Page">
 
